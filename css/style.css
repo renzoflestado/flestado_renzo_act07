@@ -1,0 +1,22 @@
+#image{
+    width: 15em;
+    height: 15em;
+}
+.yahoo{
+    margin: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#who{
+    position: absolute;
+    top: 50%;
+}
+.about{
+    position: absolute;
+    top: 60%;
+}
+.index{
+    position: absolute;
+    top: 30%;
+}
